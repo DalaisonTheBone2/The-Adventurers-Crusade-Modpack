@@ -8,4 +8,4 @@ playtesting will start soon.
 
 # Useful Links
 - [Version List](https://github.com/DalaisonTheBone2/The-Adventurers-Crusade-Modpack/tree/main/Versions)
-- [Download Current Version]()
+- [Download Current Version](https://github.com/DalaisonTheBone2/The-Adventurers-Crusade-Modpack/releases/download/Alpha/TAC-0.0.5.zip)
