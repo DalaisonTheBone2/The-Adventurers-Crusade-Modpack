@@ -5,3 +5,7 @@ This mod pack is a kingdom-building high fantasy rpg-based mod pack that builds 
 
 This pack is in alpha and things are subject to change.
 playtesting will start soon.
+
+#Useful Links
+[Version List](https://github.com/DalaisonTheBone2/The-Adventurers-Crusade-Modpack/tree/main/Versions)
+[Download Current Version](https://github.com/DalaisonTheBone2/The-Adventurers-Crusade-Modpack/blob/main/Versions/TAC-0.0.5.zip)
