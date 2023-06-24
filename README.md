@@ -7,6 +7,6 @@ This pack is in alpha and things are subject to change.
 playtesting will start soon.
 
 # Useful Links
-- [Download Current Version](https://github.com/DalaisonTheBone2/The-Adventurers-Crusade-Modpack/releases/download/1.0.2/TAC-1.0.2.1.0.2.zip)
+- [Download Current Version](https://github.com/DalaisonTheBone2/The-Adventurers-Crusade-Modpack/releases/download/hotfix/TAC-1.0.3.1.0.3.zip)
 - [Releases](https://github.com/DalaisonTheBone2/The-Adventurers-Crusade-Modpack/releases)
 - [Version List](https://github.com/DalaisonTheBone2/The-Adventurers-Crusade-Modpack/tree/main/Versions)
